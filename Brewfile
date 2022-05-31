@@ -1,8 +1,11 @@
+tap "hashicorp/tap"
+
 brew "git"
 brew "go"
 brew "node"
 brew "awscli"
 brew "llvm"
+brew "hashicorp/tap/terraform"
 
 cask "google-chrome"
 cask "google-cloud-sdk"
