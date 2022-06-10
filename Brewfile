@@ -2,7 +2,6 @@ tap "hashicorp/tap"
 
 brew "git"
 brew "go"
-brew "node"
 brew "awscli"
 brew "llvm"
 brew "hashicorp/tap/terraform"
