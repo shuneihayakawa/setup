@@ -1,6 +1,5 @@
-tap "hashicorp/tap"
-
 brew "git"
+brew "gh"
 brew "go"
 brew "awscli"
 brew "mas"
@@ -11,7 +10,6 @@ brew "go-jsonnet"
 brew "ruby"
 brew "python3"
 brew "openjdk"
-brew "hashicorp/tap/terraform"
 
 cask "google-chrome"
 cask "google-cloud-sdk"
