@@ -10,6 +10,7 @@ brew "go-jsonnet"
 brew "ruby"
 brew "python3"
 brew "openjdk"
+brew "tfenv"
 
 cask "google-chrome"
 cask "google-cloud-sdk"
