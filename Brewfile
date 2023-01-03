@@ -1,6 +1,7 @@
 brew "awscli"
 brew "git"
 brew "go"
+brew "k6"
 brew "mongosh"
 brew "tfenv"
 
