@@ -8,7 +8,7 @@ export SDKMAN_DIR="$HOME/.sdkman"
 [[ -s "$HOME/.sdkman/bin/sdkman-init.sh" ]] && source "$HOME/.sdkman/bin/sdkman-init.sh"
 
 
-export GOBIN=$GOPATH/bin
+export GOBIN=$HOME/go/bin
 export PATH=$PATH:$GOBIN
 
 export JAVA_HOME=$HOME/.sdkman/candidates/java/17.0.8.1-ms
