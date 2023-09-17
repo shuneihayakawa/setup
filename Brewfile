@@ -4,6 +4,7 @@ brew "go"
 brew "go-task"
 brew "graphviz"
 brew "mongosh"
+brew "plantuml"
 brew "python@3.11"
 brew "tfenv"
 
