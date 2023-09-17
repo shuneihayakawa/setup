@@ -10,3 +10,5 @@ export SDKMAN_DIR="$HOME/.sdkman"
 
 export GOBIN=$GOPATH/bin
 export PATH=$PATH:$GOBIN
+
+export JAVA_HOME=$HOME/.sdkman/candidates/java/17.0.8.1-ms
