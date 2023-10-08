@@ -1,4 +1,5 @@
 brew "awscli"
+brew "gh"
 brew "git"
 brew "go"
 brew "go-task"
