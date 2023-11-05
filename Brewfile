@@ -1,4 +1,7 @@
+tap "buildpacks/tap"
+
 brew "awscli"
+brew "buildpacks/tap/pack"
 brew "gh"
 brew "git"
 brew "go"
