@@ -1,4 +1,5 @@
 brew "atlas"
+brew "gh"
 brew "git"
 brew "go"
 brew "go-task"
@@ -17,3 +18,5 @@ cask "sequel-ace"
 cask "slack"
 cask "visual-studio-code"
 cask "warp"
+
+mas "Xcode", id: 497799835
