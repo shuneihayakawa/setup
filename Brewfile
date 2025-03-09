@@ -13,6 +13,7 @@ brew "tfenv"
 brew "wget"
 
 cask "1password"
+cask "chatgpt"
 cask "discord"
 cask "docker"
 cask "freedom"
