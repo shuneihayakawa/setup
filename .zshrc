@@ -5,3 +5,5 @@ export SDKMAN_DIR="$HOME/.sdkman"
 
 export GOBIN=$HOME/go/bin
 export PATH=$PATH:$GOBIN
+
+export PATH=$PATH=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
