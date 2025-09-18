@@ -11,9 +11,9 @@ brew "mint"
 brew "mockery"
 brew "postgresql@17"
 brew "pyenv"
+brew "swift-format"
 brew "tfenv"
 brew "wget"
-
 
 cask "1password"
 cask "arc"
