@@ -11,7 +11,6 @@ brew "mint"
 brew "mockery"
 brew "postgresql@17"
 brew "pyenv"
-brew "swift-format"
 brew "tfenv"
 brew "wget"
 
